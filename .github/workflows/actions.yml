@@ -1,8 +1,6 @@
 name: javascript actions
 
-
 on: [push]
-
 jobs:
   run-github-actions:
     runs-on: ubuntu-latest
